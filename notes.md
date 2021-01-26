@@ -6,11 +6,6 @@
   - Programming language for Ethereum smart contracts.
   - Smart Contracts are immutable. Once they are on the chain, they cannot be modified.
 
-### Useful Reads for Solidity Development
-
-- [Upgrading Solidity Contracts](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/)
-  - Common patterns for designing upgradable Solidity contracts.
-
 ## Ethereum Dev Tools
 
 - [Truffle Suite](https://www.trufflesuite.com/)
@@ -36,3 +31,11 @@
 - [1-inch](https://1inch.exchange/#/)
   - DEX aggregator
   - Routes your trade to other DEX's for the most cost-effective trade.
+
+### Useful Reads for Solidity Development
+
+- [Upgrading Solidity Contracts](https://blog.openzeppelin.com/the-state-of-smart-contract-upgrades/)
+
+  - Common patterns for designing upgradable Solidity contracts.
+
+- [Using Uniswap as a Developer](https://blog.oceanprotocol.com/the-developers-guide-to-uniswap-48fcf6e9ee1e)
